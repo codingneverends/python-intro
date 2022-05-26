@@ -1,7 +1,9 @@
 # Intro to Python
 
 ![Alt text](./intro.jpg?raw=true "Intro to Python")
-
+<p align="center">
+  <img src="./intro.jpg" width="350" title="Intro to Python">
+</p>
 ## Hello World
 
 ## Read and Write
