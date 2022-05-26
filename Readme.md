@@ -1,6 +1,6 @@
 # Intro to Python
 
-![Alt text](relative/intro.jpg?raw=true "Intro to Python")
+![Alt text](./intro.jpg?raw=true "Intro to Python")
 
 ## Hello World
 
