@@ -6,50 +6,50 @@
 
 ### Hello World
 
-## Read and Write
+### Read and Write
 
-## Arithmetic hadling - lvl 0 -- raw
+### Arithmetic hadling - lvl 0 -- raw
 
-## Arithmetic hadling - lvl 1 -- string
+### Arithmetic hadling - lvl 1 -- string
 
-## Determining type
+### Determining type
 
-## Arithmetic hadling - lvl 2 -- int
+### Arithmetic hadling - lvl 2 -- int
 
-## Arithmetic hadling - lvl 3 -- float
+### Arithmetic hadling - lvl 3 -- float
 
-## Verifing Type
+### Verifing Type
 
-## True and False
+### True and False
 
-## If
+### If
 
-## If Else
+### If Else
 
-## List Handling - intro
+### List Handling - intro
 
-## List Handling - adding entry(append)
+### List Handling - adding entry(append)
 
-## List Handling - Acessing Specific entry
+### List Handling - Acessing Specific entry
 
-## List Handling - Modyfying entry
+### List Handling - Modyfying entry
 
-## For Loop
+### For Loop
 
-## For Loop and lists
+### For Loop and lists
 
-## List Sum -- For
+### List Sum -- For
 
-## List Sum -- Inbuilt function
+### List Sum -- Inbuilt function
 
-## List Length
+### List Length
 
-## List Average
+### List Average
 
-## While Loop
+### While Loop
 
-## List Sum - While
+### List Sum - While
 
-##  Functions
+###  Functions
 
-## Classes -- Intro -- __init__ and custom function
+### Classes -- Intro -- __init__ and custom function
